@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pipeworx-io/blm-mining-claims",
+  "title": "Blm Mining Claims",
+  "description": "BLM mining claims (MLRS) — fleet #2826.",
+  "version": "0.1.0",
+  "websiteUrl": "https://pipeworx.io/packs/blm-mining-claims",
+  "repository": {
+    "url": "https://github.com/pipeworx-io/mcp-blm-mining-claims",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gateway.pipeworx.io/blm-mining-claims/mcp"
+    }
+  ]
+}
