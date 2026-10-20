@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-blm-mining-claims",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "BLM mining claims (MLRS) — fleet #2826.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-caa1899e6cb99ac2609dce21488670c46f914165be3cfecdc619c9a016f168fa",
-    "sourceCommit": "051ee2039fc96224cb5b7358fd69d525bced13a6"
+    "sourceHash": "v1-02b8f30b8324dfdc0fab901642a7619eaedb8b780016f1a831ba1ed8f16e4b53",
+    "sourceCommit": "5d8d3a58a457b8464c117515d81b8b6ecb53fdfb"
   }
 }
