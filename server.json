@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/blm-mining-claims",
   "title": "Blm Mining Claims",
   "description": "BLM mining claims (MLRS) — fleet #2826.",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "websiteUrl": "https://pipeworx.io/packs/blm-mining-claims",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-blm-mining-claims",
